@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BCA Student<br>Currently Learning Python<br>Working on MERN Projects
+I'm a Student<br>Currently Learning Python<br>Working on MERN Projects
 
 
 ## 🌐 Socials:
