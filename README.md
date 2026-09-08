@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BCA Student<br><br>Currently Learning React Native<br>Working on MERN/NEXT JS Projects<br>JAVA & DSA
+I'm a BCA Student<br><br>Currently Learning React Native<br>Working on MERN/NEXT JS Projects<br>Python
 
 
 ## 🌐 Socials:
